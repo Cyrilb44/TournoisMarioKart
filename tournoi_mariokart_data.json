@@ -1,0 +1,156 @@
+{
+  "poules": [
+    {
+      "id": 1,
+      "joueurs": [
+        {
+          "name": "Romain",
+          "pts": 0
+        },
+        {
+          "name": "Laurent D",
+          "pts": 0
+        },
+        {
+          "name": "François RO",
+          "pts": 0
+        },
+        {
+          "name": "Frédéric A",
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "joueurs": [
+        {
+          "name": "Cyril",
+          "pts": 0
+        },
+        {
+          "name": "François RE",
+          "pts": 0
+        },
+        {
+          "name": "Titouan",
+          "pts": 0
+        },
+        {
+          "name": "Maxime",
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "joueurs": [
+        {
+          "name": "Raphaël",
+          "pts": 0
+        },
+        {
+          "name": "Mickael",
+          "pts": 0
+        },
+        {
+          "name": "Vincent",
+          "pts": 0
+        },
+        {
+          "name": "Bertrand",
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "joueurs": [
+        {
+          "name": "Antoine M",
+          "pts": 0
+        },
+        {
+          "name": "Freddy",
+          "pts": 0
+        },
+        {
+          "name": "Jérôme",
+          "pts": 0
+        },
+        {
+          "name": "Erwann",
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "joueurs": [
+        {
+          "name": "Benoît",
+          "pts": 0
+        },
+        {
+          "name": "Anthony",
+          "pts": 0
+        },
+        {
+          "name": "Jacky",
+          "pts": 0
+        },
+        {
+          "name": "Antoine C",
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "joueurs": [
+        {
+          "name": "Jeanne",
+          "pts": 0
+        },
+        {
+          "name": "Gilles",
+          "pts": 0
+        },
+        {
+          "name": "Frédéric G",
+          "pts": 0
+        },
+        {
+          "name": "David",
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "joueurs": [
+        {
+          "name": "Benjamin",
+          "pts": 0
+        },
+        {
+          "name": "Christophe",
+          "pts": 0
+        },
+        {
+          "name": "Cem",
+          "pts": 0
+        },
+        {
+          "name": "Maël",
+          "pts": 0
+        }
+      ]
+    }
+  ],
+  "phase2": [],
+  "quarts": [],
+  "demis": [],
+  "finale": [],
+  "classement": []
+}
