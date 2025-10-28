@@ -5,19 +5,19 @@
       "joueurs": [
         {
           "name": "Romain",
-          "pts": 15
-        },
-        {
-          "name": "François RO",
-          "pts": 10
+          "pts": 0
         },
         {
           "name": "Laurent D",
-          "pts": 8
+          "pts": 0
+        },
+        {
+          "name": "François RO",
+          "pts": 0
         },
         {
           "name": "Frédéric A",
-          "pts": 2
+          "pts": 0
         }
       ]
     },
@@ -25,20 +25,20 @@
       "id": 2,
       "joueurs": [
         {
-          "name": "François RE",
-          "pts": 51
-        },
-        {
           "name": "Cyril",
-          "pts": 18
+          "pts": 0
         },
         {
-          "name": "Maxime",
-          "pts": 12
+          "name": "François RE",
+          "pts": 0
         },
         {
           "name": "Titouan",
-          "pts": 2
+          "pts": 0
+        },
+        {
+          "name": "Maxime",
+          "pts": 0
         }
       ]
     },
@@ -47,19 +47,19 @@
       "joueurs": [
         {
           "name": "Raphaël",
-          "pts": 84
+          "pts": 0
         },
         {
           "name": "Mickael",
-          "pts": 54
+          "pts": 0
         },
         {
           "name": "Vincent",
-          "pts": 12
+          "pts": 0
         },
         {
           "name": "Bertrand",
-          "pts": 12
+          "pts": 0
         }
       ]
     },
@@ -68,19 +68,19 @@
       "joueurs": [
         {
           "name": "Antoine M",
-          "pts": 85
+          "pts": 0
         },
         {
           "name": "Freddy",
-          "pts": 23
+          "pts": 0
         },
         {
           "name": "Jérôme",
-          "pts": 21
+          "pts": 0
         },
         {
           "name": "Erwann",
-          "pts": 12
+          "pts": 0
         }
       ]
     },
@@ -88,20 +88,20 @@
       "id": 5,
       "joueurs": [
         {
-          "name": "Anthony",
-          "pts": 54
-        },
-        {
           "name": "Benoît",
-          "pts": 36
+          "pts": 0
         },
         {
-          "name": "Antoine C",
-          "pts": 14
+          "name": "Anthony",
+          "pts": 0
         },
         {
           "name": "Jacky",
-          "pts": 1
+          "pts": 0
+        },
+        {
+          "name": "Antoine C",
+          "pts": 0
         }
       ]
     },
@@ -109,20 +109,20 @@
       "id": 6,
       "joueurs": [
         {
-          "name": "Gilles",
-          "pts": 55
+          "name": "Jeanne",
+          "pts": 0
         },
         {
-          "name": "David",
-          "pts": 23
+          "name": "Gilles",
+          "pts": 0
         },
         {
           "name": "Frédéric G",
-          "pts": 21
+          "pts": 0
         },
         {
-          "name": "Jeanne",
-          "pts": 17
+          "name": "David",
+          "pts": 0
         }
       ]
     },
@@ -131,302 +131,26 @@
       "joueurs": [
         {
           "name": "Benjamin",
-          "pts": 58
+          "pts": 0
         },
         {
           "name": "Christophe",
-          "pts": 45
+          "pts": 0
+        },
+        {
+          "name": "Cem",
+          "pts": 0
         },
         {
           "name": "Maël",
-          "pts": 22
-        },
-        {
-          "name": "Cem",
-          "pts": 12
-        }
-      ]
-    }
-  ],
-  "phase2": [
-    {
-      "id": 1,
-      "joueurs": [
-        {
-          "name": "Romain",
-          "pts": 41
-        },
-        {
-          "name": "Vincent",
-          "pts": 14
-        },
-        {
-          "name": "Erwann",
-          "pts": 11
-        },
-        {
-          "name": "Cyril",
-          "pts": 0
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "joueurs": [
-        {
-          "name": "François RE",
-          "pts": 22
-        },
-        {
-          "name": "Mickael",
-          "pts": 14
-        },
-        {
-          "name": "Jérôme",
-          "pts": 14
-        },
-        {
-          "name": "Jacky",
-          "pts": 13
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "joueurs": [
-        {
-          "name": "Antoine C",
-          "pts": 36
-        },
-        {
-          "name": "Jeanne",
-          "pts": 15
-        },
-        {
-          "name": "Raphaël",
-          "pts": 14
-        },
-        {
-          "name": "Freddy",
-          "pts": 5
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "joueurs": [
-        {
-          "name": "Frédéric G",
-          "pts": 76
-        },
-        {
-          "name": "Cem",
-          "pts": 74
-        },
-        {
-          "name": "Benoît",
-          "pts": 46
-        },
-        {
-          "name": "Antoine M",
-          "pts": 13
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "joueurs": [
-        {
-          "name": "Maël",
-          "pts": 36
-        },
-        {
-          "name": "David",
-          "pts": 25
-        },
-        {
-          "name": "Anthony",
-          "pts": 14
-        },
-        {
-          "name": "Frédéric A",
-          "pts": 14
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "joueurs": [
-        {
-          "name": "Titouan",
-          "pts": 85
-        },
-        {
-          "name": "Laurent D",
-          "pts": 36
-        },
-        {
-          "name": "Christophe",
-          "pts": 25
-        },
-        {
-          "name": "Gilles",
-          "pts": 14
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "joueurs": [
-        {
-          "name": "Maxime",
-          "pts": 65
-        },
-        {
-          "name": "Benjamin",
-          "pts": 47
-        },
-        {
-          "name": "François RO",
-          "pts": 15
-        },
-        {
-          "name": "Bertrand",
-          "pts": 13
-        }
-      ]
-    }
-  ],
-  "quarts": [
-    {
-      "id": 1,
-      "joueurs": [
-        {
-          "name": "Antoine M",
-          "pts": 63
-        },
-        {
-          "name": "Raphaël",
-          "pts": 25
-        },
-        {
-          "name": "Frédéric G",
-          "pts": 16
-        },
-        {
-          "name": "Benjamin",
-          "pts": 14
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "joueurs": [
-        {
-          "name": "Cem",
-          "pts": 98
-        },
-        {
-          "name": "Titouan",
-          "pts": 74
-        },
-        {
-          "name": "Benoît",
-          "pts": 52
-        },
-        {
-          "name": "Maxime",
-          "pts": 13
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "joueurs": [
-        {
-          "name": "Christophe",
-          "pts": 74
-        },
-        {
-          "name": "Gilles",
-          "pts": 65
-        },
-        {
-          "name": "Mickael",
-          "pts": 36
-        },
-        {
-          "name": "François RE",
-          "pts": 19
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "joueurs": [
-        {
-          "name": "Antoine C",
-          "pts": 65
-        },
-        {
-          "name": "Anthony",
-          "pts": 58
-        },
-        {
-          "name": "Maël",
-          "pts": 41
-        },
-        {
-          "name": "Romain",
-          "pts": 13
-        }
-      ]
-    }
-  ],
-  "demis": [
-    {
-      "id": 1,
-      "joueurs": [
-        {
-          "name": "Antoine M",
-          "pts": 0
-        },
-        {
-          "name": "Raphaël",
-          "pts": 0
-        },
-        {
-          "name": "Cem",
-          "pts": 0
-        },
-        {
-          "name": "Titouan",
-          "pts": 0
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "joueurs": [
-        {
-          "name": "Christophe",
-          "pts": 0
-        },
-        {
-          "name": "Gilles",
-          "pts": 0
-        },
-        {
-          "name": "Antoine C",
-          "pts": 0
-        },
-        {
-          "name": "Anthony",
           "pts": 0
         }
       ]
     }
   ],
+  "phase2": [],
+  "quarts": [],
+  "demis": [],
   "finale": [],
   "classement": []
 }
