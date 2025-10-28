@@ -5,7 +5,7 @@
       "joueurs": [
         {
           "name": "Romain",
-          "pts": 0
+          "pts": 15
         },
         {
           "name": "Laurent D",
@@ -17,7 +17,7 @@
         },
         {
           "name": "Frédéric A",
-          "pts": 0
+          "pts": 8
         }
       ]
     },
