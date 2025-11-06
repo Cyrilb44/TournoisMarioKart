@@ -4,20 +4,20 @@
       "id": 1,
       "joueurs": [
         {
-          "name": "Romain",
-          "pts": 0
-        },
-        {
-          "name": "Laurent D",
-          "pts": 0
-        },
-        {
           "name": "François RO",
-          "pts": 0
+          "pts": 20
         },
         {
           "name": "Frédéric A",
-          "pts": 0
+          "pts": 12
+        },
+        {
+          "name": "Laurent D",
+          "pts": 8
+        },
+        {
+          "name": "Romain",
+          "pts": 4
         }
       ]
     },
@@ -29,7 +29,7 @@
           "pts": 0
         },
         {
-          "name": "François RE",
+          "name": "Mathis",
           "pts": 0
         },
         {
@@ -68,19 +68,19 @@
       "joueurs": [
         {
           "name": "Antoine M",
-          "pts": 0
+          "pts": 16
         },
         {
           "name": "Freddy",
-          "pts": 0
+          "pts": 16
+        },
+        {
+          "name": "Benoît",
+          "pts": 6
         },
         {
           "name": "Jérôme",
-          "pts": 0
-        },
-        {
-          "name": "Mathis",
-          "pts": 0
+          "pts": 6
         }
       ]
     },
@@ -100,7 +100,7 @@
           "pts": 0
         },
         {
-          "name": "Antoine C",
+          "name": "David",
           "pts": 0
         }
       ]
@@ -113,7 +113,7 @@
           "pts": 0
         },
         {
-          "name": "Benoît",
+          "name": "François RE",
           "pts": 0
         },
         {
@@ -121,7 +121,7 @@
           "pts": 0
         },
         {
-          "name": "David",
+          "name": "Antoine C",
           "pts": 0
         }
       ]
