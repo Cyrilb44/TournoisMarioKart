@@ -88,20 +88,20 @@
       "id": 5,
       "joueurs": [
         {
-          "name": "Gilles",
-          "pts": 12
-        },
-        {
           "name": "Anthony",
           "pts": 17
         },
         {
-          "name": "Jacky",
-          "pts": 4
+          "name": "Gilles",
+          "pts": 12
         },
         {
           "name": "François RE",
           "pts": 11
+        },
+        {
+          "name": "Jacky",
+          "pts": 4
         }
       ]
     },
@@ -134,12 +134,12 @@
           "pts": 16
         },
         {
-          "name": "Christophe",
-          "pts": 8
-        },
-        {
           "name": "Cem",
           "pts": 16
+        },
+        {
+          "name": "Christophe",
+          "pts": 8
         },
         {
           "name": "Maël",
