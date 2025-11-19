@@ -89,19 +89,19 @@
       "joueurs": [
         {
           "name": "Gilles",
-          "pts": 0
+          "pts": 12
         },
         {
           "name": "Anthony",
-          "pts": 0
+          "pts": 17
         },
         {
           "name": "Jacky",
-          "pts": 0
+          "pts": 4
         },
         {
-          "name": "David",
-          "pts": 0
+          "name": "François RE",
+          "pts": 11
         }
       ]
     },
@@ -113,7 +113,7 @@
           "pts": 0
         },
         {
-          "name": "François RE",
+          "name": "David",
           "pts": 0
         },
         {
@@ -131,19 +131,19 @@
       "joueurs": [
         {
           "name": "Benjamin",
-          "pts": 0
+          "pts": 16
         },
         {
           "name": "Christophe",
-          "pts": 0
+          "pts": 8
         },
         {
           "name": "Cem",
-          "pts": 0
+          "pts": 16
         },
         {
           "name": "Maël",
-          "pts": 0
+          "pts": 4
         }
       ]
     }
