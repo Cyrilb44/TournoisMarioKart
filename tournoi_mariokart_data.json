@@ -25,20 +25,20 @@
       "id": 2,
       "joueurs": [
         {
-          "name": "Nicolas",
-          "pts": 0
-        },
-        {
           "name": "Mathis",
-          "pts": 0
+          "pts": 14
         },
         {
           "name": "Titouan",
-          "pts": 0
+          "pts": 14
+        },
+        {
+          "name": "Nicolas",
+          "pts": 11
         },
         {
           "name": "Maxime",
-          "pts": 0
+          "pts": 5
         }
       ]
     },
@@ -109,20 +109,20 @@
       "id": 6,
       "joueurs": [
         {
-          "name": "Jeanne",
-          "pts": 0
+          "name": "David",
+          "pts": 18
         },
         {
-          "name": "David",
-          "pts": 0
+          "name": "Jeanne",
+          "pts": 14
         },
         {
           "name": "Frédéric G",
-          "pts": 0
+          "pts": 8
         },
         {
           "name": "Antoine C",
-          "pts": 0
+          "pts": 4
         }
       ]
     },
