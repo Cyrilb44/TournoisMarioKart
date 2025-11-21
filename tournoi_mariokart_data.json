@@ -22,7 +22,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "Groupe 2",
       "joueurs": [
         {
           "name": "Mathis",
@@ -43,7 +43,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "Groupe 3",
       "joueurs": [
         {
           "name": "Raphaël",
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "Groupe 4",
       "joueurs": [
         {
           "name": "Antoine M",
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "id": 5,
+      "id": "Groupe 5",
       "joueurs": [
         {
           "name": "Anthony",
@@ -106,7 +106,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": "Groupe 6",
       "joueurs": [
         {
           "name": "David",
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": "Groupe 7",
       "joueurs": [
         {
           "name": "Benjamin",
