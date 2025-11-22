@@ -148,7 +148,162 @@
       ]
     }
   ],
-  "phase2": [],
+  "phase2": [
+    {
+      "id": "Groupe 1 - Jeudi 04/12 - 12h30",
+      "jour": "2025-12-01",
+      "joueurs": [
+        {
+          "name": "David",
+          "pts": 0
+        },
+        {
+          "name": "François RO",
+          "pts": 0
+        },
+        {
+          "name": "Raphaël",
+          "pts": 0
+        },
+        {
+          "name": "Freddy",
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "id": "Groupe 2 - Mardi 04/12 - 13h00",
+      "jour": "2025-12-02",
+      "joueurs": [
+        {
+          "name": "Frédéric A",
+          "pts": 0
+        },
+        {
+          "name": "Gilles",
+          "pts": 0
+        },
+        {
+          "name": "Laurent",
+          "pts": 0
+        },
+        {
+          "name": "Nicolas",
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "id": "Groupe 3 - Mardi 04/12 - 13h30",
+      "jour": "2025-11-27",
+      "joueurs": [
+        {
+          "name": "Bertrand",
+          "pts": 0
+        },
+        {
+          "name": "Jacky",
+          "pts": 0
+        },
+        {
+          "name": "Maël",
+          "pts": 0
+        },
+        {
+          "name": "Romain",
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "id": "Groupe 4 - Mardi 09/12 - 12h30",
+      "jour": "2025-11-27",
+      "joueurs": [
+        {
+          "name": "Anthony",
+          "pts": 0
+        },
+        {
+          "name": "Antoine M",
+          "pts": 0
+        },
+        {
+          "name": "Mathis",
+          "pts": 0
+        },
+        {
+          "name": "Cem",
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "id": "Groupe 5 - Mardi 09/12 - 13h00",
+      "jour": "2025-12-01",
+      "joueurs": [
+        {
+          "name": "Jeanne",
+          "pts": 0
+        },
+        {
+          "name": "Mickael",
+          "pts": 0
+        },
+        {
+          "name": "Titouan",
+          "pts": 0
+        },
+        {
+          "name": "François RE",
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "id": "Groupe 6 - Mardi 09/12 - 13h30",
+      "jour": "2025-11-27",
+      "joueurs": [
+        {
+          "name": "Frédéric G",
+          "pts": 0
+        },
+        {
+          "name": "Vincent",
+          "pts": 0
+        },
+        {
+          "name": "Antoine C",
+          "pts": 0
+        },
+        {
+          "name": "Maxime",
+          "pts": 0
+        }
+      ]
+    },
+    {
+      "id": "Groupe 7 - Jeudi 11/12 - 13h00",
+      "jour": "2025-11-27",
+      "joueurs": [
+        {
+          "name": "Benjamin",
+          "pts": 0
+        },
+        {
+          "name": "Benoît",
+          "pts": 0
+        },
+        {
+          "name": "Christophe",
+          "pts": 0
+        },
+        {
+          "name": "Jérôme",
+          "pts": 0
+        }
+      ]
+    }
+  ],
   "quarts": [],
   "demis": [],
   "finale": [],
