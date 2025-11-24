@@ -3,307 +3,141 @@
     {
       "id": "Groupe 1",
       "joueurs": [
-        {
-          "name": "François RO",
-          "pts": 20
-        },
-        {
-          "name": "Frédéric A",
-          "pts": 12
-        },
-        {
-          "name": "Laurent",
-          "pts": 8
-        },
-        {
-          "name": "Romain",
-          "pts": 4
-        }
+        { "name": "François RO", "pts": 20 },
+        { "name": "Frédéric A", "pts": 12 },
+        { "name": "Laurent", "pts": 8 },
+        { "name": "Romain", "pts": 4 }
       ]
     },
     {
       "id": "Groupe 2",
       "joueurs": [
-        {
-          "name": "Mathis",
-          "pts": 14
-        },
-        {
-          "name": "Titouan",
-          "pts": 14
-        },
-        {
-          "name": "Nicolas",
-          "pts": 11
-        },
-        {
-          "name": "Maxime",
-          "pts": 5
-        }
+        { "name": "Mathis", "pts": 14 },
+        { "name": "Titouan", "pts": 14 },
+        { "name": "Nicolas", "pts": 11 },
+        { "name": "Maxime", "pts": 5 }
       ]
     },
     {
       "id": "Groupe 3",
       "joueurs": [
-        {
-          "name": "Raphaël",
-          "pts": 18
-        },
-        {
-          "name": "Mickael",
-          "pts": 13
-        },
-        {
-          "name": "Vincent",
-          "pts": 7
-        },
-        {
-          "name": "Bertrand",
-          "pts": 6
-        }
+        { "name": "Raphaël", "pts": 18 },
+        { "name": "Mickael", "pts": 13 },
+        { "name": "Vincent", "pts": 7 },
+        { "name": "Bertrand", "pts": 6 }
       ]
     },
     {
       "id": "Groupe 4",
       "joueurs": [
-        {
-          "name": "Antoine M",
-          "pts": 16
-        },
-        {
-          "name": "Freddy",
-          "pts": 16
-        },
-        {
-          "name": "Benoît",
-          "pts": 6
-        },
-        {
-          "name": "Jérôme",
-          "pts": 6
-        }
+        { "name": "Antoine M", "pts": 16 },
+        { "name": "Freddy", "pts": 16 },
+        { "name": "Benoît", "pts": 6 },
+        { "name": "Jérôme", "pts": 6 }
       ]
     },
     {
       "id": "Groupe 5",
       "joueurs": [
-        {
-          "name": "Anthony",
-          "pts": 17
-        },
-        {
-          "name": "Gilles",
-          "pts": 12
-        },
-        {
-          "name": "François RE",
-          "pts": 11
-        },
-        {
-          "name": "Jacky",
-          "pts": 4
-        }
+        { "name": "Anthony", "pts": 17 },
+        { "name": "Gilles", "pts": 12 },
+        { "name": "François RE", "pts": 11 },
+        { "name": "Jacky", "pts": 4 }
       ]
     },
     {
       "id": "Groupe 6",
       "joueurs": [
-        {
-          "name": "David",
-          "pts": 18
-        },
-        {
-          "name": "Jeanne",
-          "pts": 14
-        },
-        {
-          "name": "Frédéric G",
-          "pts": 8
-        },
-        {
-          "name": "Antoine C",
-          "pts": 4
-        }
+        { "name": "David", "pts": 18 },
+        { "name": "Jeanne", "pts": 14 },
+        { "name": "Frédéric G", "pts": 8 },
+        { "name": "Antoine C", "pts": 4 }
       ]
     },
     {
       "id": "Groupe 7",
       "joueurs": [
-        {
-          "name": "Benjamin",
-          "pts": 16
-        },
-        {
-          "name": "Cem",
-          "pts": 16
-        },
-        {
-          "name": "Christophe",
-          "pts": 8
-        },
-        {
-          "name": "Maël",
-          "pts": 4
-        }
+        { "name": "Benjamin", "pts": 16 },
+        { "name": "Cem", "pts": 16 },
+        { "name": "Christophe", "pts": 8 },
+        { "name": "Maël", "pts": 4 }
       ]
     }
   ],
+
   "phase2": [
     {
-      "id": "Groupe 1 - Jeudi 04/12 - 12h30",
-      "jour": "2025-12-01",
+      "id": "Groupe 1 - Jeudi 27/11 - 12h30",
+      "jour": "2025-11-27",
       "joueurs": [
-        {
-          "name": "David",
-          "pts": 0
-        },
-        {
-          "name": "François RO",
-          "pts": 0
-        },
-        {
-          "name": "Raphaël",
-          "pts": 0
-        },
-        {
-          "name": "Freddy",
-          "pts": 0
-        }
+        { "name": "Nicolas", "pts": 0 },
+        { "name": "Benoît", "pts": 0 },
+        { "name": "Laurent", "pts": 0 },
+        { "name": "Frédéric A", "pts": 0 }
       ]
     },
     {
-      "id": "Groupe 2 - Jeudi 04/12 - 13h00",
+      "id": "Groupe 2 - Jeudi 27/11 - 13h00",
+      "jour": "2025-11-27",
+      "joueurs": [
+        { "name": "David", "pts": 0 },
+        { "name": "Antoine M", "pts": 0 },
+        { "name": "Freddy", "pts": 0 },
+        { "name": "Jérôme", "pts": 0 }
+      ]
+    },
+    {
+      "id": "Groupe 3 - Lundi 01/12 - 13h00",
+      "jour": "2025-12-01",
+      "joueurs": [
+        { "name": "Mickael", "pts": 0 },
+        { "name": "Romain", "pts": 0 },
+        { "name": "Frédéric G", "pts": 0 },
+        { "name": "François RO", "pts": 0 }
+      ]
+    },
+    {
+      "id": "Groupe 4 - Mardi 02/12 - 12h30",
       "jour": "2025-12-02",
       "joueurs": [
-        {
-          "name": "Frédéric A",
-          "pts": 0
-        },
-        {
-          "name": "Gilles",
-          "pts": 0
-        },
-        {
-          "name": "Laurent",
-          "pts": 0
-        },
-        {
-          "name": "Nicolas",
-          "pts": 0
-        }
+        { "name": "Raphaël", "pts": 0 },
+        { "name": "Anthony", "pts": 0 },
+        { "name": "Gilles", "pts": 0 },
+        { "name": "Maël", "pts": 0 }
       ]
     },
     {
-      "id": "Groupe 3 - Jeudi 04/12 - 13h30",
-      "jour": "2025-11-27",
+      "id": "Groupe 5 - Mardi 02/12 - 13h00",
+      "jour": "2025-12-02",
       "joueurs": [
-        {
-          "name": "Bertrand",
-          "pts": 0
-        },
-        {
-          "name": "Jacky",
-          "pts": 0
-        },
-        {
-          "name": "Maël",
-          "pts": 0
-        },
-        {
-          "name": "Romain",
-          "pts": 0
-        }
+        { "name": "Jacky", "pts": 0 },
+        { "name": "Bertrand", "pts": 0 },
+        { "name": "Cem", "pts": 0 },
+        { "name": "François RE", "pts": 0 }
       ]
     },
     {
-      "id": "Groupe 4 - Mardi 09/12 - 12h30",
-      "jour": "2025-11-27",
+      "id": "Groupe 6 - Mercredi 03/12 - 12h30",
+      "jour": "2025-12-03",
       "joueurs": [
-        {
-          "name": "Anthony",
-          "pts": 0
-        },
-        {
-          "name": "Antoine M",
-          "pts": 0
-        },
-        {
-          "name": "Mathis",
-          "pts": 0
-        },
-        {
-          "name": "Cem",
-          "pts": 0
-        }
+        { "name": "Vincent", "pts": 0 },
+        { "name": "Antoine C", "pts": 0 },
+        { "name": "Jeanne", "pts": 0 },
+        { "name": "Titouan", "pts": 0 }
       ]
     },
     {
-      "id": "Groupe 5 - Mardi 09/12 - 13h00",
-      "jour": "2025-12-01",
+      "id": "Groupe 7 - Mercredi 03/12 - 13h00",
+      "jour": "2025-12-03",
       "joueurs": [
-        {
-          "name": "Jeanne",
-          "pts": 0
-        },
-        {
-          "name": "Mickael",
-          "pts": 0
-        },
-        {
-          "name": "Titouan",
-          "pts": 0
-        },
-        {
-          "name": "François RE",
-          "pts": 0
-        }
-      ]
-    },
-    {
-      "id": "Groupe 6 - Mardi 09/12 - 13h30",
-      "jour": "2025-11-27",
-      "joueurs": [
-        {
-          "name": "Frédéric G",
-          "pts": 0
-        },
-        {
-          "name": "Vincent",
-          "pts": 0
-        },
-        {
-          "name": "Antoine C",
-          "pts": 0
-        },
-        {
-          "name": "Maxime",
-          "pts": 0
-        }
-      ]
-    },
-    {
-      "id": "Groupe 7 - Jeudi 11/12 - 13h00",
-      "jour": "2025-11-27",
-      "joueurs": [
-        {
-          "name": "Benjamin",
-          "pts": 0
-        },
-        {
-          "name": "Benoît",
-          "pts": 0
-        },
-        {
-          "name": "Christophe",
-          "pts": 0
-        },
-        {
-          "name": "Jérôme",
-          "pts": 0
-        }
+        { "name": "Benjamin", "pts": 0 },
+        { "name": "Maxime", "pts": 0 },
+        { "name": "Christophe", "pts": 0 },
+        { "name": "Mathis", "pts": 0 }
       ]
     }
   ],
+
   "quarts": [],
   "demis": [],
   "finale": [],
