@@ -71,7 +71,7 @@
       "jour": "2025-11-27",
       "joueurs": [
         { "name": "Nicolas", "pts": 0 },
-        { "name": "Benoît", "pts": 0 },
+        { "name": "Vincent", "pts": 0 },
         { "name": "Laurent", "pts": 0 },
         { "name": "Frédéric A", "pts": 0 }
       ]
@@ -120,7 +120,7 @@
       "id": "Groupe 6 - Mercredi 03/12 - 12h30",
       "jour": "2025-12-03",
       "joueurs": [
-        { "name": "Vincent", "pts": 0 },
+        { "name": "Benoît", "pts": 0 },
         { "name": "Antoine C", "pts": 0 },
         { "name": "Jeanne", "pts": 0 },
         { "name": "Titouan", "pts": 0 }
