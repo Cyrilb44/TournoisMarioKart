@@ -73,7 +73,7 @@
         { "name": "Nicolas", "pts": 0 },
         { "name": "Vincent", "pts": 0 },
         { "name": "Laurent", "pts": 0 },
-        { "name": "Frédéric A", "pts": 0 }
+        { "name": "Frédéric G", "pts": 0 }
       ]
     },
     {
@@ -82,7 +82,7 @@
       "joueurs": [
         { "name": "David", "pts": 0 },
         { "name": "Antoine M", "pts": 0 },
-        { "name": "Frédéric G", "pts": 0 },
+        { "name": "Frédéric A", "pts": 0 },
         { "name": "Jérôme", "pts": 0 }
       ]
     },
